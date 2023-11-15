@@ -1,4 +1,4 @@
-# EET-51 Comunicações II - 3º Laboratório: Multiplexação de Sinais Modulados Digitalmente
+# EET-51 Comunicações II - 4º Laboratório: Multiplexação de Sinais Modulados Digitalmente
 
 ## Tarefas
 
